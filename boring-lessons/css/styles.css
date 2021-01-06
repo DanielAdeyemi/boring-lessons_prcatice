@@ -1,0 +1,22 @@
+h2.intro {
+  color: blueviolet;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+p.intro {
+  color: red;
+  text-decoration: underline;
+  font-size: larger;
+}
+
+img.intro {
+  display: block;
+  margin: 0 auto;
+  height: 150px;
+}
+
+body{
+  margin: 20px 50px 20px 50px;
+}
