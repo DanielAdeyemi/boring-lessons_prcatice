@@ -1,18 +1,22 @@
-h2.intro {
-  color: blueviolet;
+.intro {
   text-align: center;
   font-weight: bold;
   font-style: italic;
 }
 
-p.intro {
+h2{
+  color: blueviolet;
+  
+}
+
+p#intro {
   color: red;
   text-decoration: underline;
   font-size: larger;
 
 }
 
-img.intro {
+img  {
   display: block;
   margin: 0 auto;
   height: 150px;
