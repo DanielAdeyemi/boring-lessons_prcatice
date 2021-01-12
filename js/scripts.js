@@ -7,4 +7,9 @@ $(document).ready(function() {
     $("body").removeClass("light");
     $("body").addClass("dark");
   });
+
+  $("p").click(function() {
+    $("p").removeClass("highlight");
+    $(this).addClass("highlight");
+  });
 });
